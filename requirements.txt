@@ -1,0 +1,10 @@
+torch>=2.3
+transformers>=4.43
+accelerate>=0.33
+bitsandbytes>=0.43
+sentencepiece>=0.2
+matplotlib>=3.8
+pandas>=2.2
+langchain>=0.2
+langchain-community>=0.2
+pyautogen>=0.2
